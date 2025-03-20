@@ -1,0 +1,47 @@
+{
+  "title": "純淨分享",
+  "placeholder": "貼上分享連結...",
+  "platform": "辨識平台",
+  "params": {
+    "airborne": "精準空降",
+    "startTime": "影片開始時間"
+  },
+  "supported": "目前支援的平台",
+  "supportedPlatforms": {
+    "bilibili":{
+      "name": "哔哩哔哩",
+      "description": "支持精準空降"
+    },
+    "youtube":{
+      "name": "YouTube",
+      "description": "支持保留影片開始時間"
+    },
+    "twitch":{
+      "name": "Twitch",
+      "description": ""
+    },
+    "TikTok":{
+      "name": "TikTok",
+      "description": ""
+    },
+    "Instagram":{
+      "name": "Instagram",
+      "description": ""
+    },
+    "X": {
+      "name": "X",
+      "description": ""
+    },
+    "Bluesky": {
+      "name": "Bluesky",
+      "description": ""
+    }
+  },
+  "paste": "粘貼",
+  "loading": "加載中",
+  "noMatch": "未匹配到目前已支援的平台，將去除?後的所有參數",
+  "copy": "複製",
+  "copySuccess": "已複製到剪貼板",
+  "copyFailure": "複製失敗",
+  "startTime": "影片開始時間"
+}

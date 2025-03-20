@@ -1,0 +1,44 @@
+[
+  {
+    "domain": "bilibili.com",
+    "name": "BiliBili",
+    "paramsDescription": ["airborne"],
+    "params": ["t"]
+  },
+  {
+    "domain": "youtu.be",
+    "name": "YouTube",
+    "paramsDescription": ["startTime"],
+    "params": ["t"]
+  },
+  {
+    "domain": "instagram.com",
+    "name": "Instagram",
+    "paramsDescription": [],
+    "params": []
+  },
+  {
+    "domain": "tiktok.com",
+    "name": "TikTok",
+    "paramsDescription": [],
+    "params": []
+  },
+  {
+    "domain": "x.com",
+    "name": "X",
+    "paramsDescription": [],
+    "params": []
+  },
+  {
+    "domain": "bsky.app",
+    "name": "Bluesky",
+    "paramsDescription": [],
+    "params": []
+  },
+  {
+    "domain": "twitch.tv",
+    "name": "Twitch",
+    "paramsDescription": [],
+    "params": []
+  }
+]

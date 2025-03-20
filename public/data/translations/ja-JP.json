@@ -1,0 +1,47 @@
+{
+  "title": "純粋な共有",
+  "placeholder": "共有URLを貼り付け...",
+  "platform": "検出プラットフォーム",
+  "params": {
+    "airborne": "精密空中投下",
+    "startTime": "ビデオ開始時刻"
+  },
+  "supported": "サポートされているプラットフォーム",
+  "supportedPlatforms": {
+    "bilibili":{
+      "name": "BiliBili",
+      "description": "精密空中投下をサポート"
+    },
+    "youtube":{
+      "name": "YouTube",
+      "description": "ビデオ開始時刻を保持する"
+    },
+    "twitch":{
+      "name": "Twitch",
+      "description": ""
+    },
+    "TikTok":{
+      "name": "TikTok",
+      "description": ""
+    },
+    "Instagram":{
+      "name": "Instagram",
+      "description": ""
+    },
+    "X": {
+      "name": "X",
+      "description": ""
+    },
+    "Bluesky": {
+      "name": "Bluesky",
+      "description": ""
+    }
+  },
+  "paste": "ペースト",
+  "loading": "読み込み中",
+  "noMatch": "現在サポートされているプラットフォームに一致するものが見つかりませんでした。?以降のすべてのパラメータが削除されます",
+  "copy": "コピー",
+  "copySuccess": "クリップボードにコピーされました",
+  "copyFailure": "コピーに失敗しました",
+  "startTime": "ビデオ開始時刻"
+}

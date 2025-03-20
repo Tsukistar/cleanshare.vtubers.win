@@ -1,0 +1,47 @@
+{
+  "title": "Pure Sharing",
+  "placeholder": "Paste share URL...",
+  "platform": "Detected Platform",
+  "params": {
+    "airborne": "Precision Airborne",
+    "startTime": "Video Start Time"
+  },
+  "supported": "Supported Platforms",
+  "supportedPlatforms": {
+    "bilibili":{
+      "name": "BiliBili",
+      "description": "Supports precision airborne"
+    },
+    "youtube":{
+      "name": "YouTube",
+      "description": "Supports retaining video start time"
+    },
+    "twitch":{
+      "name": "Twitch",
+      "description": ""
+    },
+    "TikTok":{
+      "name": "TikTok",
+      "description": ""
+    },
+    "Instagram":{
+      "name": "Instagram",
+      "description": ""
+    },
+    "X": {
+      "name": "X",
+      "description": ""
+    },
+    "Bluesky": {
+      "name": "Bluesky",
+      "description": ""
+    }
+  },
+  "paste": "Paste",
+  "loading": "Loading",
+  "noMatch": "No match found for supported platforms, all params after ? will be removed",
+  "copy": "Copy",
+  "copySuccess": "Copied to clipboard",
+  "copyFailure": "Copy failed",
+  "startTime": "Video Start Time"
+}
